@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kamau2022
 - I hold a bachelor of science degree in physics
-- 👀 I’m studying software engineering at ALX
-- 🌱 I’m currently learning python programming language
+- I studied software engineering at ALX
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me benkabenson@gmail.com
 
